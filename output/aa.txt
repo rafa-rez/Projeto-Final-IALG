@@ -1,0 +1,99 @@
+The Electric Waves,Brasil,2,1000,4
+Lunar Echoes,Estados Unidos,1,1500,5
+Crimson Sky,Reino Unido,1.5,1200,3
+Azure Serenade,Austrália,2.5,1800,6
+Wildfire Symphony,Alemanha,1.25,900,4
+Midnight Pulse,Canadá,1.75,1100,5
+Silent Samurai,Japão,1.5,1300,3
+Solar Flares,Brasil,2,1000,4
+Eternal Echo,Estados Unidos,1.25,900,4
+Silver Rain,Reino Unido,1.5,1200,3
+Mystic Serpent,Austrália,2,1000,4
+Obsidian Winds,Alemanha,1,1500,5
+Echoes of Eternity,Canadá,1.5,1200,3
+Crimson Lotus,Japão,2.5,1800,6
+Emerald Shadows,Brasil,1.25,900,4
+Whispering Dreams,Estados Unidos,1.5,1200,3
+Amber Skies,Reino Unido,1.75,1100,5
+Harmonic Enigma,Austrália,1.5,1300,3
+Golden Horizon,Alemanha,2,1000,4
+Celestial Harmony,Canadá,1.25,900,4
+Rising Phoenix,Japão,1.5,1200,3
+Luminous Harmony,Brasil,2,1000,4
+The Velvet Shadows,Estados Unidos,1,1500,5
+Whirlwind Symphony,Reino Unido,2.5,1800,6
+Crimson Dream,Austrália,1.5,1300,3
+Ethereal Echo,Alemanha,1.25,900,4
+Melodic Storm,Canadá,1.75,1100,5
+Silent Oceans,Japão,2,1000,4
+Solaris,Brasil,1.5,1200,3
+Eclipse Rising,Estados Unidos,2,1000,4
+Enchanted Melodies,Reino Unido,1.25,900,4
+Aurora Borealis,Austrália,1.5,1200,3
+Phantom Symphony,Alemanha,1.75,1100,5
+Solstice Serenade,Canadá,2.5,1800,6
+Twilight Melody,Japão,1,1500,5
+Mystic Harmony,Brasil,1.5,1200,3
+Lunar Shadows,Estados Unidos,2,1000,4
+Whispering Winds,Reino Unido,1.25,900,4
+Eternal Embers,Austrália,2.5,1800,6
+Melodic Echoes,Alemanha,1.75,1100,5
+Celestial Symphony,Canadá,1.5,1300,3
+Nightfall Serenade,Japão,1.75,1100,5
+Crimson Mist,Brasil,2.25,1400,6
+Echoes of Dawn,Estados Unidos,1.5,1200,3
+The Enigma,Reino Unido,1.5,1200,3
+Silent Thunder,Austrália,2,1000,4
+Radiant Harmony,Alemanha,1.5,1300,3
+Lost Symphony,Canadá,2.5,1800,6
+Mystic Rhapsody,Japão,1.25,900,4
+Silver Lining,Brasil,1.75,1100,5
+Sonic Fusion,Estados Unidos,1.5,1200,3
+Whispering Seas,Reino Unido,2,1000,4
+Celestial Solace,Austrália,1.5,1200,3
+Velvet Shadows,Alemanha,1,1500,5
+Ethereal Pulse,Canadá,2.25,1400,6
+Harmonic Dreams,Japão,1.75,1100,5
+Crimson Rain,Brasil,1.5,1200,3
+Aurora Symphony,Estados Unidos,2,1000,4
+Solstice Serenade,Reino Unido,1.25,900,4
+Eternal Echoes,Austrália,1.5,1200,3
+Melodic Whispers,Alemanha,2.5,1800,6
+Sonic Fusion,Canadá,1.5,1200,4
+Amber Sky,Austrália,2,1000,3
+Rhythm's Edge,Reino Unido,1.25,900,5
+Eclipse Rising,Alemanha,2.5,1800,6
+Echoes of Twilight,Japão,1.75,1100,4
+Crimson Mist,Brasil,1.5,1200,5
+Whispering Seas,Estados Unidos,2,1000,3
+Mystic Dawn,Austrália,1.25,900,4
+Celestial Dreams,Canadá,1.75,1100,5
+Velvet Echoes,Reino Unido,2.5,1800,6
+Eternal Serenade,Alemanha,1.5,1200,4
+Silver Lining,Japão,1.5,1300,5
+Harmonic Shadows,Brasil,2,1000,3
+Aurora Symphony,Estados Unidos,1.25,900,4
+Enchanted Melodies,Austrália,2.5,1800,6
+Melodic Whispers,Canadá,1.5,1200,4
+Lunar Symphony,Reino Unido,2,1000,3
+Crimson Horizon,Alemanha,1.25,900,5
+Ethereal Serenade,Japão,1.75,1100,4
+Mystic Echo,Brasil,1.5,1200,5
+Silent Thunder,Estados Unidos,2,1000,3
+Radiant Harmony,Austrália,1.5,1300,4
+Lost Symphony,Canadá,1.75,1100,5
+Silver Moon,Reino Unido,2.5,1800,6
+Harmonic Dreams,Alemanha,1.5,1200,4
+Enchanted Melody,Japão,1.5,1300,5
+Crimson Skies,Brasil,2,1000,3
+Azure Melodies,Estados Unidos,1.25,900,4
+Eternal Waves,Austrália,2.5,1800,6
+Melodic Harmony,Canadá,1.5,1200,4
+Whispering Seas,Reino Unido,2,1000,3
+Mystic Symphony,Alemanha,1.25,900,5
+Lunar Echo,Brasil,1.5,1200,5
+Crimson Horizon,Estados Unidos,2,1000,3
+Ethereal Serenade,Austrália,1.75,1100,4
+Celestial Harmony,Canadá,1.5,1300,4
+Melodic Shadows,Japão,2,1000,3
+Silver Echoes,Brasil,1.25,900,5
